@@ -1,7 +1,1 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px" viewBox="803 1299  20 20" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 803.5 1301  A 1.5 1.5 0 0 1 805 1299.5 L 821 1299.5  A 1.5 1.5 0 0 1 822.5 1301 L 822.5 1317  A 1.5 1.5 0 0 1 821 1318.5 L 805 1318.5  A 1.5 1.5 0 0 1 803.5 1317 L 803.5 1301  Z " fill-rule="nonzero" fill="#f0f0f0" stroke="none" />
-  <path d="M 803.5 1301  A 1.5 1.5 0 0 1 805 1299.5 L 821 1299.5  A 1.5 1.5 0 0 1 822.5 1301 L 822.5 1317  A 1.5 1.5 0 0 1 821 1318.5 L 805 1318.5  A 1.5 1.5 0 0 1 803.5 1317 L 803.5 1301  Z " stroke-width="1" stroke="#d7d7d7" fill="none" />
-  <path d="M 807.285714285714 1309  L 811.571428571429 1313.28571428571  " stroke-width="4.28571428571429" stroke="#d7d7d7" fill="none" />
-  <path d="M 811.571428571429 1313.28571428571  L 818.714285714286 1303.28571428571  " stroke-width="4.28571428571429" stroke="#d7d7d7" fill="none" />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="803 1299 20 20"><path fill="#f0f0f0" d="M803.5 1301a1.5 1.5 0 0 1 1.5-1.5h16a1.5 1.5 0 0 1 1.5 1.5v16a1.5 1.5 0 0 1-1.5 1.5h-16a1.5 1.5 0 0 1-1.5-1.5z"/><path fill="none" stroke="#d7d7d7" d="M803.5 1301a1.5 1.5 0 0 1 1.5-1.5h16a1.5 1.5 0 0 1 1.5 1.5v16a1.5 1.5 0 0 1-1.5 1.5h-16a1.5 1.5 0 0 1-1.5-1.5z"/><path fill="none" stroke="#d7d7d7" stroke-width="4.286" d="m807.286 1309 4.285 4.286M811.571 1313.286l7.143-10"/></svg>

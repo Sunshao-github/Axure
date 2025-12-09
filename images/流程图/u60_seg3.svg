@@ -1,10 +1,1 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px" preserveAspectRatio="xMinYMid meet" viewBox="596 448  20 18" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <mask fill="white" id="clip4">
-      <path d="M 628 507  L 662 507  L 662 535  L 628 535  Z M 591 447  L 662 447  L 662 587  L 591 587  Z " fill-rule="evenodd" />
-    </mask>
-  </defs>
-  <path d="M 601 584  L 640 584  A 5 5 0 0 0 645 579 L 645 462  A 5 5 0 0 0 640 457 L 607 457  " stroke-width="2" stroke="#d9001b" fill="none" mask="url(#clip4)" />
-  <path d="M 608 449.4  L 601 457  L 608 464.6  L 608 449.4  Z " fill-rule="nonzero" fill="#d9001b" stroke="none" mask="url(#clip4)" />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" preserveAspectRatio="xMinYMid meet" viewBox="596 448 20 18"><defs><mask id="a" fill="#fff"><path fill-rule="evenodd" d="M628 507h34v28h-34Zm-37-60h71v140h-71Z"/></mask></defs><path fill="none" stroke="#d9001b" stroke-width="2" d="M601 584h39a5 5 0 0 0 5-5V462a5 5 0 0 0-5-5h-33" mask="url(#a)"/><path fill="#d9001b" d="m608 449.4-7 7.6 7 7.6z" mask="url(#a)"/></svg>

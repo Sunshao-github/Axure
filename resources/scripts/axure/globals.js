@@ -1,7 +1,1 @@
-﻿$axure.internal(function($ax) {
-    var _globals = $ax.globals = {};
-
-    $ax.globals.MaxZIndex = 1000;
-    $ax.globals.MinZIndex = -1000;
-    
-});
+$axure.internal(function(l){l.globals={};l.globals.MaxZIndex=1e3,l.globals.MinZIndex=-1e3});

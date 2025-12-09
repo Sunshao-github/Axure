@@ -1,10 +1,1 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="455px" height="10px" preserveAspectRatio="xMinYMid meet" viewBox="170 536  455 8" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <mask fill="white" id="clip7">
-      <path d="M 405 526  L 439 526  L 439 554  L 405 554  Z M 165 526  L 623 526  L 623 587  L 165 587  Z " fill-rule="evenodd" />
-    </mask>
-  </defs>
-  <path d="M 601 584  L 615 584  A 5 5 0 0 0 620 579 L 620 545  A 5 5 0 0 0 615 540 L 554 540  A 3 3 0 0 0 551 537 A 3 3 0 0 0 548 540 L 180 540  A 5 5 0 0 0 175 545 L 175 548  " stroke-width="2" stroke="#d9001b" fill="none" mask="url(#clip7)" />
-  <path d="M 167.4 547  L 175 554  L 182.6 547  L 167.4 547  Z " fill-rule="nonzero" fill="#d9001b" stroke="none" mask="url(#clip7)" />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="455" height="10" preserveAspectRatio="xMinYMid meet" viewBox="170 536 455 8"><defs><mask id="a" fill="#fff"><path fill-rule="evenodd" d="M405 526h34v28h-34Zm-240 0h458v61H165Z"/></mask></defs><path fill="none" stroke="#d9001b" stroke-width="2" d="M601 584h14a5 5 0 0 0 5-5v-34a5 5 0 0 0-5-5h-61a3 3 0 0 0-3-3 3 3 0 0 0-3 3H180a5 5 0 0 0-5 5v3" mask="url(#a)"/><path fill="#d9001b" d="m167.4 547 7.6 7 7.6-7z" mask="url(#a)"/></svg>

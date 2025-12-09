@@ -1,18 +1,1 @@
-(function () {
-    $.holdReady(true);
-
-    var script = window.document.createElement("script");
-    script.type = "text/javascript";
-    script.async = true;
-    script.onload = script.onreadystatechange = function (e, isAbort) {
-        if (isAbort || !script.readyState || /loaded|complete/.test(script.readyState)) {
-            script.onload = script.onreadystatechange = null;
-            script = undefined;
-        }
-
-        if (!isAbort) { $.holdReady(false); }
-    }
-
-    script.src = "data/document.js";
-    window.document.head.appendChild(script);
-})();
+!function(){$.holdReady(!0);var e=window.document.createElement("script");e.type="text/javascript",e.async=!0,e.onload=e.onreadystatechange=function(a,t){(t||!e.readyState||/loaded|complete/.test(e.readyState))&&(e.onload=e.onreadystatechange=null,e=void 0),t||$.holdReady(!1)},e.src="data/document.js",window.document.head.appendChild(e)}();
